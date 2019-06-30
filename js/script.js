@@ -11,20 +11,20 @@ $(window).on("load", function() {
 
 $(document).ready(function() {
 
-/*	$('#slides').superslides({
+	$('#slides').superslides({
 		animation: 'fade',
 		play: 5000,
 		pagination: false
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Software Engineer.", "Web Developer.", "Student."],
-		typeSpeed: 70,
+		strings: ["Software Developer.", "Backend Developer.", "High Altitude Trekker."],
+		typeSpeed: 100,
 		loop: true,
-		startDelay: 1000,
+		startDelay: 2000,
 		showCursor: false
 	});
-*/
+
 	$('.owl-carousel').owlCarousel({
 	    loop:true,
 	    items: 4,
