@@ -534,7 +534,15 @@ ul.social-icons {
     background-color: #4285f4;
 }
 
-
+.wp-caption .wp-caption-text {
+    margin: auto;
+    padding: 5px 0;
+}
+.wp-caption .wp-caption-text {
+    color: #777;
+    font-size: 12px;
+    font-style: italic;
+}
 
 
 
