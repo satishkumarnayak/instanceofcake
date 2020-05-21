@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Software Developer.", "Backend Developer.", "High Altitude Trekker."],
+		strings: ["Software Developer.","Full Stack Developer.", "Backend Developer.", "High Altitude Trekker."],
 		typeSpeed: 100,
 		loop: true,
 		startDelay: 2000,
